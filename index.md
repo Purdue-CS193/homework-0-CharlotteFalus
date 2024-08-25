@@ -1,3 +1,12 @@
+# Charlotte's First CS193 Homework
+### My favorite things about CS193
+``` markdown
+- The calss is taught by cool people
+- I have a friend in the class
+- I am exited to learn about CS tools (like formatting on this assignment)
+```
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
