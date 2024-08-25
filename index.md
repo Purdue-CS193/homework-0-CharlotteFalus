@@ -1,9 +1,9 @@
 # Charlotte's First CS193 Homework
 ### My favorite things about CS193
 ``` markdown
-- The calss is taught by cool people
+- The class is taught by cool people
 - I have a friend in the class
-- I am exited to learn about CS tools (like formatting on this assignment)
+- I am exited to learn about CS tools(like formatting with this assignment)
 ```
 
 
