@@ -1,10 +1,9 @@
 # Charlotte's First CS193 Homework
 ### My favorite things about CS193
-``` markdown
 - The class is taught by cool people
 - I have a friend in the class
 - I am exited to learn about CS tools(like formatting with this assignment)
-```
+
 
 
 ## Welcome to GitHub Pages
